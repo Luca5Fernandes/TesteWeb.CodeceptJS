@@ -22,3 +22,4 @@ exports.config = {
   },
   name: 'TesteWeb.CodeceptJS'
 }
+
